@@ -1,3 +1,4 @@
+# Hi 👋, I'm Ricky Dama
 # 💫 About Me:
 🔭 I’m currently working on Full-Stack Web Development projects using React, Next.js, Node.js, Express, and MySQL.<br><br>👯 I’m looking to collaborate on Open Source, Web Development.<br>🤝 I’m looking for help with scalable backend systems, system design.<br><br>🌱 I’m currently learning Data Structures & Algorithms, System Design and Cloud Technologies.<br><br>💬 Ask me about C++, JavaScript, React, Node.js, SQL, Git, GitHub, and Competitive Programming.<br><br>⚡ Fun fact: I enjoy solving DSA problems and turning ideas into real-world applications.
 
