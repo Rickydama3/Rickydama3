@@ -1,22 +1,188 @@
-# Hi 👋, I'm Ricky Dama
-# 💫 About Me:
-🔭 I’m currently working on Full-Stack Web Development projects using React, Next.js, Node.js, Express, and MySQL.<br><br>👯 I’m looking to collaborate on Open Source, Web Development.<br>🤝 I’m looking for help with scalable backend systems, system design.<br><br>🌱 I’m currently learning Data Structures & Algorithms, System Design and Cloud Technologies.<br><br>💬 Ask me about C++, JavaScript, React, Node.js, SQL, Git, GitHub, and Competitive Programming.<br><br>⚡ Fun fact: I enjoy solving DSA problems and turning ideas into real-world applications.
+<!-- ============================= HEADER ============================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Ricky%20Ramesh%20Dama&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20×%20Problem%20Solver%20×%20CSE%20Student&descAlignY=62&descSize=18" width="100%"/>
 
+<h3 align="center">👋 Hey there, I'm <a href="https://www.linkedin.com/in/ricky-dama-8a9166318/">Ricky Ramesh Dama</a></h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rickydama3&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Rickydama3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rickydama3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<code>「 Building scalable web applications, developer tools, and solving complex DSA problems 」</code>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rickydama3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=B.Tech+CSE+@+IIIT+Gwalior;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Chrome+Extension+Developer;500%2B+DSA+Problems+Solved" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rickydama3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=06b6d4&style=flat-square"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rickydama3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 B.Tech in Computer Science & Engineering at **IIIT Gwalior**
+
+💻 Passionate about **Full Stack Development**, **Chrome Extensions**, and **Developer Tools**
+
+🚀 Building scalable applications using **React, Node.js, Express, TypeScript**
+
+🧩 Strong problem-solving skills with **500+ DSA problems solved**
+
+🏆 Codeforces **Pupil (1348)** • LeetCode **1600+ Rating**
+
+🌱 Currently exploring advanced backend development and system design.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ricky-dama-8a9166318/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rickydama2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rickydama3">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Ricky-123/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/rickydama2006">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+
+## Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+# 🚀 Featured Projects
+
+## 🔥 LeetCode to GitHub Sync Extension
+
+**TypeScript • Chrome Extension • GitHub API • GraphQL**
+
+- Automatically syncs accepted LeetCode submissions to GitHub.
+- Uses GraphQL for metadata enrichment.
+- Detects submissions via network interception instead of DOM scraping.
+- Generates structured Markdown notes automatically.
+
+---
+
+## 📚 Student Docs + AI Assistant
+
+**React • Express • SQLite • Gemini API**
+
+- AI-powered document assistant.
+- Upload PDFs and ask questions.
+- Context-aware responses using Gemini API.
+- Full-stack React + Express architecture.
+
+---
+
+## 🚗 Parkade (SmartPark)
+
+**React • Node.js • Express • MySQL**
+
+- Parking slot booking platform.
+- JWT authentication.
+- Responsive frontend using React + Tailwind.
+- MySQL-backed reservation management.
+
+---
+
+# 🏆 Achievements
+
+⭐ Solved **500+ DSA Problems**
+
+⭐ **Codeforces Pupil (1348)**
+
+⭐ **LeetCode Rating 1600+**
+
+⭐ Top 100 in IEEE National Hackathon among **3000+ teams**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+
+</p>
+
+---
+
+# 🤝 Open to Collaborate On
+
+- Full Stack Web Development
+- Chrome Extensions
+- Developer Tools
+- Open Source Projects
+- Backend APIs
+- React & Node.js Projects
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
