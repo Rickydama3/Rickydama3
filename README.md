@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=06b6d4&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Rickydama3&label=Profile%20Views&color=06b6d4&style=flat-square"/>
 </p>
 
 ---
@@ -36,27 +36,21 @@
 # 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/ricky-dama-8a9166318/">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rickydama2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Rickydama3">
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Ricky-123/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/rickydama2006">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/ricky-dama-8a9166318/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rickydama2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Rickydama3">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Ricky-123/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/rickydama2006">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -105,47 +99,68 @@
 
 # 🚀 Featured Projects
 
-## 🔥 LeetCode to GitHub Sync Extension
-
-**TypeScript • Chrome Extension • GitHub API • GraphQL**
-
-- Automatically syncs accepted LeetCode submissions to GitHub.
-- Uses GraphQL for metadata enrichment.
-- Detects submissions via network interception instead of DOM scraping.
-- Generates structured Markdown notes automatically.
-
----
-
-## 📚 Student Docs + AI Assistant
-
-**React • Express • SQLite • Gemini API**
-
-- AI-powered document assistant.
-- Upload PDFs and ask questions.
-- Context-aware responses using Gemini API.
-- Full-stack React + Express architecture.
-
----
-
-## 🚗 Parkade (SmartPark)
-
-**React • Node.js • Express • MySQL**
-
-- Parking slot booking platform.
-- JWT authentication.
-- Responsive frontend using React + Tailwind.
-- MySQL-backed reservation management.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔥 LeetCode to GitHub Sync</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+        <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome"/>
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql"/>
+      </p>
+      <p align="center">Automatically syncs accepted LeetCode submissions to GitHub with metadata enrichment via GraphQL and structured Markdown notes.</p>
+      <p align="center">
+        <a href="https://github.com/Rickydama3/leetcode-sync-extension"><strong>🔗 View Repo »</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📚 Student Docs + AI Assistant</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
+        <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express"/>
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite"/>
+        <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google"/>
+      </p>
+      <p align="center">AI-powered document assistant that lets you upload PDFs and ask context-aware questions using the Gemini API.</p>
+      <p align="center">
+        <a href="https://github.com/Rickydama3/student-docs-ai"><strong>🔗 View Repo »</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚗 Parkade (SmartPark)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+        <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/>
+      </p>
+      <p align="center">Parking slot booking platform with JWT authentication, MySQL-backed reservations, and a responsive Tailwind frontend.</p>
+      <p align="center">
+        <a href="https://github.com/Rickydama3/parkade"><strong>🔗 View Repo »</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧩 More Projects</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Coming_Soon-FF6C37?style=for-the-badge&logo=github&logoColor=white"/>
+      </p>
+      <p align="center">Check back for more open-source tools and full-stack applications!</p>
+      <p align="center">
+        <a href="https://github.com/Rickydama3?tab=repositories"><strong>🔗 Explore All Repos »</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 # 🏆 Achievements
 
-⭐ Solved **500+ DSA Problems**
-
-⭐ **Codeforces Pupil (1348)**
-
-⭐ **LeetCode Rating 1600+**
-
+⭐ Solved **500+ DSA Problems**  
+⭐ **Codeforces Pupil (1348)**  
+⭐ **LeetCode Rating 1600+**  
 ⭐ Top 100 in IEEE National Hackathon among **3000+ teams**
 
 ---
@@ -153,9 +168,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rickydama3&show_icons=true&theme=github_dark&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickydama3&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rickydama3&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&show=prs_merged,issues" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickydama3&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -170,13 +184,30 @@
 
 # 🤝 Open to Collaborate On
 
-- Full Stack Web Development
-- Chrome Extensions
-- Developer Tools
-- Open Source Projects
-- Backend APIs
-- React & Node.js Projects
+I'm actively looking for **open-source projects**, **hackathon teams**, and **developer tooling ideas** in these areas:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Full_Stack-React%20%2B%20Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chrome_Extensions-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dev_Tools-APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend_Architecture-System_Design-4F46E5?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_Source-Contributions-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+📌 **I'm particularly interested in:**
+- Open-source projects with active communities (I'm happy to mentor first-time contributors!)
+- Building developer productivity tools and Chrome extensions
+- Hackathon teams – I bring full-stack + DSA firepower
+
+💬 **Reach out** → [LinkedIn](https://www.linkedin.com/in/ricky-dama-8a9166318/) or [Email](mailto:rickydama2006@gmail.com) – I reply within 24 hours!
 
 ---
+
+<!-- Contribution Snake (Dark/Light adaptive) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rickydama3/Rickydama3/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rickydama3/Rickydama3/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rickydama3/Rickydama3/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
