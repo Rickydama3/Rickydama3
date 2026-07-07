@@ -1,5 +1,5 @@
 <!-- ============================= HEADER ============================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=200&section=header&text=Ricky%20Ramesh%20Dama&fontSize=58&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Dev%20%E2%80%A2%20Chrome%20Extensions%20%E2%80%A2%20React&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=200&section=header&text=Ricky%20Ramesh%20Dama&fontSize=58&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Dev%20%E2%80%A2%20Chrome%20Extensions%20%E2%80%A2%20CSE%20%40%20IIIT&descAlignY=62&descSize=16" width="100%"/>
 
 <h3 align="center">👋 Hey there, I'm <a href="https://www.linkedin.com/in/ricky-dama-8a9166318/">Ricky Ramesh Dama</a></h3>
 
