@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=B.Tech+CSE+@+IIIT+Gwalior;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Chrome+Extension+Developer;500%2B+DSA+Problems+Solved" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=B.Tech+CSE+%40+IIIT+Gwalior;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Chrome+Extension+Developer;500%2B+DSA+Problems+Solved;🔨+Currently+Building%3A+Developer+Dashboard+%26+SaaS+Tools" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 🏆 Codeforces **Pupil (1348)** • LeetCode **1600+ Rating**
 
-🌱 Currently exploring advanced backend development and system design.
+🌱 Currently exploring advanced backend architecture and system design.
 
 ---
 
@@ -52,6 +52,35 @@
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white"/>
   </a>
 </p>
+
+---
+
+# 🤝 Open to Collaborate On
+
+I'm actively looking for **open-source projects**, **hackathon teams**, and **developer tooling ideas**. If you're building something cool, let's talk!
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Full_Stack-React%20%2B%20Node-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chrome_Extensions-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dev_Tools-APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-System_Design-4F46E5?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_Source-Contributions-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+📌 **What I bring to the table:**
+- Full-stack firepower (React + Node + TypeScript)
+- DSA problem-solving mindset for complex logic
+- Willingness to mentor first-time open-source contributors
+
+💬 **Reach out** → [LinkedIn](https://www.linkedin.com/in/ricky-dama-8a9166318/) or [Email](mailto:rickydama2006@gmail.com) – I reply within 24 hours!
+
+---
+
+# 📈 Current Focus
+
+🔭 **Building:** A Developer Productivity Dashboard (analytics + task management)  
+📚 **Learning:** System Design, Microservices, and Advanced Database Optimization  
+🤝 **Looking for:** Collaborators on open-source Chrome extensions and dev tools
 
 ---
 
@@ -142,13 +171,13 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🧩 More Projects</h3>
+      <h3 align="center">🔭 Explore All Projects</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Coming_Soon-FF6C37?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/More_Coming_Soon-FF6C37?style=for-the-badge&logo=github&logoColor=white"/>
       </p>
-      <p align="center">Check back for more open-source tools and full-stack applications!</p>
+      <p align="center">Check out my other repositories for more open-source tools, experiments, and full-stack apps.</p>
       <p align="center">
-        <a href="https://github.com/Rickydama3?tab=repositories"><strong>🔗 Explore All Repos »</strong></a>
+        <a href="https://github.com/Rickydama3?tab=repositories"><strong>📂 Browse All Repos »</strong></a>
       </p>
     </td>
   </tr>
@@ -179,27 +208,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rickydama3&theme=algolia&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
-
----
-
-# 🤝 Open to Collaborate On
-
-I'm actively looking for **open-source projects**, **hackathon teams**, and **developer tooling ideas** in these areas:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Full_Stack-React%20%2B%20Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chrome_Extensions-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dev_Tools-APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend_Architecture-System_Design-4F46E5?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open_Source-Contributions-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
-
-📌 **I'm particularly interested in:**
-- Open-source projects with active communities (I'm happy to mentor first-time contributors!)
-- Building developer productivity tools and Chrome extensions
-- Hackathon teams – I bring full-stack + DSA firepower
-
-💬 **Reach out** → [LinkedIn](https://www.linkedin.com/in/ricky-dama-8a9166318/) or [Email](mailto:rickydama2006@gmail.com) – I reply within 24 hours!
 
 ---
 
