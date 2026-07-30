@@ -194,22 +194,20 @@ I'm actively looking for **open-source projects**, **hackathon teams**, and **de
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rickydama3&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&show=prs_merged,issues" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickydama3&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rickydama3&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickydama3&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rickydama3&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Rickydama3&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rickydama3&theme=algolia&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rickydama3&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </p>
-
----
 
 <!-- Contribution Snake (Dark/Light adaptive) -->
 <picture>
