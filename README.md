@@ -194,6 +194,19 @@ I'm actively looking for **open-source projects**, **hackathon teams**, and **de
 
 ---
 
+## 🧬 WakaTime Dev Metrics
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+> ⏱️ *Connect WakaTime to auto-populate real coding time stats*
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokkumardalei-wq&custom_title=👻+Ghostfreak+Haunting+Your+Commits&bg_color=050f05&color=39ff14&line=00cc00&point=ffffff&area_color=003300&area=true&hide_border=true&radius=8" width="97%"/>
+
+</div>
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
