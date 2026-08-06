@@ -55,9 +55,8 @@
 
 ---
 
-# 🤝 Open to Collaborate On
 
-I'm actively looking for **open-source projects**, **hackathon teams**, and **developer tooling ideas**. If you're building something cool, let's talk!
+I'm actively looking for **open-source projects**, and **developer tooling ideas**. If you're building something cool, let's talk!
 
 <p align="left">
   <img src="https://img.shields.io/badge/Full_Stack-React%20%2B%20Node-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -71,8 +70,6 @@ I'm actively looking for **open-source projects**, **hackathon teams**, and **de
 - Full-stack firepower (React + Node + TypeScript)
 - DSA problem-solving mindset for complex logic
 - Willingness to mentor first-time open-source contributors
-
-💬 **Reach out** → [LinkedIn](https://www.linkedin.com/in/ricky-dama-8a9166318/) or [Email](mailto:rickydama2006@gmail.com) – I reply within 24 hours!
 
 ---
 
@@ -189,7 +186,7 @@ I'm actively looking for **open-source projects**, **hackathon teams**, and **de
 
 ⭐ Solved **500+ DSA Problems**  
 ⭐ **Codeforces Pupil (1348)**  
-⭐ **LeetCode Rating 1600+**  
+⭐ **LeetCode Rating 1800+**  
 ⭐ Top 100 in IEEE National Hackathon among **3000+ teams**
 
 ---
@@ -202,7 +199,7 @@ I'm actively looking for **open-source projects**, **hackathon teams**, and **de
 > ⏱️ *Connect WakaTime to auto-populate real coding time stats*
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokkumardalei-wq&custom_title=👻+Ghostfreak+Haunting+Your+Commits&bg_color=050f05&color=39ff14&line=00cc00&point=ffffff&area_color=003300&area=true&hide_border=true&radius=8" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rickydama3&custom_title=👻+Ghostfreak+Haunting+Your+Commits&bg_color=050f05&color=39ff14&line=00cc00&point=ffffff&area_color=003300&area=true&hide_border=true&radius=8" width="97%"/>
 
 </div>
 
