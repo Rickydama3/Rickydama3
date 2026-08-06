@@ -45,7 +45,7 @@
   <a href="https://github.com/Rickydama3">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Ricky-123/">
+  <a href="">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://codeforces.com/profile/rickydama2006">
