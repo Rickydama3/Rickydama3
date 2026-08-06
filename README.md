@@ -48,7 +48,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://codeforces.com/profile/rickydama2006">
+  <a href="">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white"/>
   </a>
 </p>
