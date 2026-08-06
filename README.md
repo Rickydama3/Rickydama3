@@ -27,7 +27,7 @@
 
 🧩 Strong problem-solving skills with **500+ DSA problems solved**
 
-🏆 Codeforces **Pupil (1348)** • LeetCode **1600+ Rating**
+🏆 Codeforces **Pupil (1348)** • LeetCode **knight**
 
 🌱 Currently exploring advanced backend architecture and system design.
 
