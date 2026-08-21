@@ -37,43 +37,21 @@
 
 <td width="65%" valign="top">
 
-🎓 Who I Am
+🎓 B.Tech CSE — IIIT Gwalior
 
+💻 Full Stack + Backend Engineering
 
+🚀 React · Node.js · Express · TypeScript
 
+🧩  800+ DSA Problems Solved
 
+🏆 Codeforces Pupil · 1348
 
-🎓
+⭐ LeetCode 1800+
 
-B.Tech CSE — IIIT Gwalior
+🌱 System Design · Microservices · Database Optimization
 
-💻
-
-Full Stack + Backend Engineering
-
-🚀
-
-React · Node.js · Express · TypeScript
-
-🧩
-
-500+ DSA Problems Solved
-
-🏆
-
-Codeforces Pupil · 1348
-
-⭐
-
-LeetCode 1800+
-
-🌱
-
-System Design · Microservices · Database Optimization
-
-🤝
-
-Open Source · Developer Tooling
+🤝 Open Source · Developer Tooling
 
 </td>
 
