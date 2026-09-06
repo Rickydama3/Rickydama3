@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:172554,100:2563EB&height=250&section=header&text=Ricky%20Ramesh%20Dama&fontSize=58&fontColor=FFFFFF&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Developer%20Tools%20%7C%20CSE%20%40%20IIIT%20Gwalior&descAlignY=68&descSize=18&descColor=BFDBFE" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=60A5FA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Backend+Engineering+Enthusiast;Chrome+Extension+Developer;800%2B+DSA+Problems+Solved;Building+Developer+Tools+%26+SaaS+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&pause=1100&color=60A5FA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Backend+Engineering+Enthusiast;Chrome+Extension+Developer;800%2B+DSA+Problems+Solved;Building+Developer+Tools+%26+SaaS+Projects" />
 
 <div>
   <a href="https://github.com/Rickydama3"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
@@ -89,23 +89,25 @@ Hello! I'm Ricky, a passionate developer studying Computer Science at **IIIT Gwa
 <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,linux&theme=dark" />
 <br><br>
 
-<!-- =========================================================
-     GITHUB ANALYTICS
-     ========================================================= -->
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rickydama3&theme=nightowl&hide_border=true" width="600" />
-</div>
+<!-- =========================================================
+     GITHUB ANALYTICS (Matched to your reference image)
+     ========================================================= -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Rickydama3&show_icons=true&theme=dark&count_private=true" height="195"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rickydama3&layout=compact&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rickydama3&theme=dark" />
+</p>
 
 <br>
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D GitHub Contribution Profile" />
-  <br><br>
-  <img src="https://img.shields.io/badge/CODE-COMMIT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BUILD-DEPLOY-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CREATE-REPEAT-0891B2?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 <br><br>
