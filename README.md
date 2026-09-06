@@ -10,11 +10,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=60A5FA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Backend+Engineering+Enthusiast;Chrome+Extension+Developer;800%2B+DSA+Problems+Solved;Building+Developer+Tools+%26+SaaS+Projects" />
 
-<br/>
-
-<!-- Animated Hello -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="Animated Hello"/>
-
 <br/><br/>
 
 <a href="https://github.com/Rickydama3">
@@ -44,8 +39,11 @@
 
 <div align="center">
 
-<!-- Mario GIF from Cool-GIFs-For-GitHub -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Mario Coding"/>
+<img
+  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+  width="500"
+  alt="Mario Coding"
+/>
 
 <br/><br/>
 
@@ -88,7 +86,10 @@
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,ts,python,mysql,docker&perline=3&theme=dark" width="170"/>
+<img
+  src="https://skillicons.dev/icons?i=react,nodejs,ts,python,mysql,docker&perline=3&theme=dark"
+  width="170"
+/>
 
 <br/><br/>
 
@@ -151,7 +152,6 @@ TypeScript
 
 </td>
 
-
 <td align="center" width="20%">
 
 <h2>⚙️</h2>
@@ -172,7 +172,6 @@ API Design
 
 </td>
 
-
 <td align="center" width="20%">
 
 <h2>🧩</h2>
@@ -192,7 +191,6 @@ Productivity
 
 </td>
 
-
 <td align="center" width="20%">
 
 <h2>🧠</h2>
@@ -211,7 +209,6 @@ Logical Thinking
 <img src="https://img.shields.io/badge/SOLVE-DB2777?style=flat-square&labelColor=0B1220"/>
 
 </td>
-
 
 <td align="center" width="20%">
 
@@ -246,8 +243,11 @@ Scalable Systems
 
 <div align="center">
 
-<!-- Coding Vibe -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="Coding Vibe"/>
+<img
+  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
+  width="500"
+  alt="Coding Vibe"
+/>
 
 <br/><br/>
 
@@ -276,7 +276,6 @@ A productivity platform combining analytics + task management for developer work
 
 </td>
 
-
 <td width="33%" valign="top">
 
 <h2 align="center">📚</h2>
@@ -299,7 +298,6 @@ Scalable APIs
 <img src="https://img.shields.io/badge/DEEP%20DIVE-7C3AED?style=flat-square&labelColor=0B1220"/>
 
 </td>
-
 
 <td width="33%" valign="top">
 
@@ -411,7 +409,6 @@ Automatically syncs accepted LeetCode submissions to GitHub with metadata enrich
 
 </td>
 
-
 <td width="50%" valign="top">
 
 ### 🤖 Student Docs + AI Assistant
@@ -435,7 +432,6 @@ AI-powered document assistant that lets users upload PDFs and ask context-aware 
 
 </tr>
 
-
 <tr>
 
 <td width="50%" valign="top">
@@ -458,7 +454,6 @@ Parking slot booking platform with JWT authentication, MySQL-backed reservations
 </a>
 
 </td>
-
 
 <td width="50%" valign="top">
 
@@ -533,55 +528,39 @@ Open-source contributions
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.vercel.app/?user=Rickydama3&background=0B1220&ring=2563EB&fire=60A5FA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&hide_border=true" width="520"/>
+<img
+  src="https://github-readme-streak-stats.vercel.app/?user=Rickydama3&background=0B1220&ring=2563EB&fire=60A5FA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&hide_border=true"
+  width="520"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rickydama3&custom_title=Contribution%20Activity&bg_color=0B1220&color=93C5FD&line=2563EB&point=60A5FA&area_color=172554&area=true&hide_border=true&radius=10" width="95%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Rickydama3&custom_title=Contribution%20Activity&bg_color=0B1220&color=93C5FD&line=2563EB&point=60A5FA&area_color=172554&area=true&hide_border=true&radius=10"
+  width="95%"
+/>
 
 </div>
 
 
 <!-- =========================================================
-     CONTRIBUTION SNAKE
+     3D CONTRIBUTION PROFILE
      ========================================================= -->
 
-## 🐍 Contribution Graph
+## 🧊 3D Contribution Profile
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rickydama3/Rickydama3/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rickydama3/Rickydama3/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Rickydama3/Rickydama3/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-
-<!-- =========================================================
-     LET'S BUILD
-     ========================================================= -->
-
-## 💬 Let's Build Something Useful
-
-<div align="center">
-
-<!-- Development Time -->
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500" alt="Development Time"/>
+<img
+  src="./profile-3d-contrib/profile-night-rainbow.svg"
+  width="100%"
+  alt="3D GitHub Contribution Profile"
+/>
 
 <br/><br/>
 
-<b>Open Source · Developer Tools · Full Stack Products</b>
-
-<br/><br/>
-
-<a href="https://github.com/Rickydama3?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:0B1220&height=130&section=footer" width="100%"/>
+<img src="https://img.shields.io/badge/CODE-COMMIT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/BUILD-DEPLOY-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CREATE-REPEAT-0891B2?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
