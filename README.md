@@ -523,26 +523,18 @@ Open-source contributions
 <!-- =========================================================
      GITHUB ANALYTICS
      ========================================================= -->
-
 ## 📊 GitHub Analytics
+
 
 <div align="center">
 
 <img
-  src="https://github-readme-streak-stats.vercel.app/?user=Rickydama3&background=0B1220&ring=2563EB&fire=60A5FA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&hide_border=true"
-  width="520"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Rickydama3&custom_title=Contribution%20Activity&bg_color=0B1220&color=93C5FD&line=2563EB&point=60A5FA&area_color=172554&area=true&hide_border=true&radius=10"
-  width="95%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Rickydama3&theme=tokyonight&hide_border=true"
+  width="70%"
+  alt="GitHub Contribution Streak"
 />
 
 </div>
-
-
 <!-- =========================================================
      3D CONTRIBUTION PROFILE
      ========================================================= -->
