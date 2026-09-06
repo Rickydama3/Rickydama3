@@ -523,13 +523,12 @@ Open-source contributions
 <!-- =========================================================
      GITHUB ANALYTICS
      ========================================================= -->
-## 📊 GitHub Analytics
-
+### 📊 GitHub Analytics
 
 <div align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Rickydama3&theme=tokyonight&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Rickydama3&theme=nightowl&hide_border=true"
   width="70%"
   alt="GitHub Contribution Streak"
 />
