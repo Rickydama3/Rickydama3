@@ -8,16 +8,23 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=60A5FA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Backend+Engineering+Enthusiast;Chrome+Extension+Developer;500%2B+DSA+Problems+Solved;Building+Developer+Tools+%26+SaaS+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=60A5FA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Backend+Engineering+Enthusiast;Chrome+Extension+Developer;800%2B+DSA+Problems+Solved;Building+Developer+Tools+%26+SaaS+Projects" />
+
+<br/>
+
+<!-- Animated Hello -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="Animated Hello"/>
 
 <br/><br/>
 
 <a href="https://github.com/Rickydama3">
 <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
 <a href="https://www.linkedin.com/in/ricky-dama-8a9166318/">
 <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
 </a>
+
 <a href="mailto:rickydama2006@gmail.com">
 <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=60A5FA"/>
 </a>
@@ -28,9 +35,19 @@
 
 </div>
 
-👨‍💻 About Me
+
+<!-- =========================================================
+     ABOUT ME
+     ========================================================= -->
+
+## 👨‍💻 About Me
 
 <div align="center">
+
+<!-- Mario GIF from Cool-GIFs-For-GitHub -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Mario Coding"/>
+
+<br/><br/>
 
 <table>
 <tr>
@@ -39,17 +56,31 @@
 
 🎓 B.Tech CSE — IIIT Gwalior
 
+<br/><br/>
+
 💻 Full Stack + Backend Engineering
+
+<br/><br/>
 
 🚀 React · Node.js · Express · TypeScript
 
-🧩  800+ DSA Problems Solved
+<br/><br/>
+
+🧩 800+ DSA Problems Solved
+
+<br/><br/>
 
 🏆 Codeforces Pupil · 1348
 
+<br/><br/>
+
 ⭐ LeetCode 1800+
 
+<br/><br/>
+
 🌱 System Design · Microservices · Database Optimization
+
+<br/><br/>
 
 🤝 Open Source · Developer Tooling
 
@@ -61,15 +92,21 @@
 
 <br/><br/>
 
-⚡ My Engineering Style
+⚡ <b>My Engineering Style</b>
 
-SCALABLE
+<br/><br/>
 
-PRACTICAL
-
-DEVELOPER-FIRST
+<b>SCALABLE</b>
 
 <br/>
+
+<b>PRACTICAL</b>
+
+<br/>
+
+<b>DEVELOPER-FIRST</b>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/BUILD-2563EB?style=for-the-badge&labelColor=0B1220"/>
 <img src="https://img.shields.io/badge/LEARN-7C3AED?style=for-the-badge&labelColor=0B1220"/>
@@ -82,7 +119,12 @@ DEVELOPER-FIRST
 
 </div>
 
-⚡ What I Work With
+
+<!-- =========================================================
+     WHAT I WORK WITH
+     ========================================================= -->
+
+## ⚡ What I Work With
 
 <div align="center">
 
@@ -93,84 +135,98 @@ DEVELOPER-FIRST
 
 <h2>🚀</h2>
 
-Full Stack
+<b>Full Stack</b>
 
-React
-Next.js
-Node.js
-Express
+<br/><br/>
+
+React  
+Next.js  
+Node.js  
+Express  
 TypeScript
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/BUILD-2563EB?style=flat-square&labelColor=0B1220"/>
 
 </td>
 
+
 <td align="center" width="20%">
 
 <h2>⚙️</h2>
 
-Backend
+<b>Backend</b>
 
-REST APIs
-Authentication
-MySQL
-MongoDB
+<br/><br/>
+
+REST APIs  
+Authentication  
+MySQL  
+MongoDB  
 API Design
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/SCALE-0891B2?style=flat-square&labelColor=0B1220"/>
 
 </td>
 
+
 <td align="center" width="20%">
 
 <h2>🧩</h2>
 
-Dev Tools
+<b>Dev Tools</b>
 
-Chrome Extensions
-GraphQL
-Automation
+<br/><br/>
+
+Chrome Extensions  
+GraphQL  
+Automation  
 Productivity
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/AUTOMATE-16A34A?style=flat-square&labelColor=0B1220"/>
 
 </td>
 
+
 <td align="center" width="20%">
 
 <h2>🧠</h2>
 
-Problem Solving
+<b>Problem Solving</b>
 
-DSA
-Algorithms
-Competitive Programming
+<br/><br/>
+
+DSA  
+Algorithms  
+Competitive Programming  
 Logical Thinking
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/SOLVE-DB2777?style=flat-square&labelColor=0B1220"/>
 
 </td>
 
+
 <td align="center" width="20%">
 
 <h2>🏗️</h2>
 
-Architecture
+<b>Architecture</b>
 
-System Design
-Microservices
-Databases
+<br/><br/>
+
+System Design  
+Microservices  
+Databases  
 Scalable Systems
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/DESIGN-7C3AED?style=flat-square&labelColor=0B1220"/>
 
@@ -181,9 +237,19 @@ Scalable Systems
 
 </div>
 
-🎯 Current Focus
+
+<!-- =========================================================
+     CURRENT FOCUS
+     ========================================================= -->
+
+## 🎯 Current Focus
 
 <div align="center">
+
+<!-- Coding Vibe -->
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="Coding Vibe"/>
+
+<br/><br/>
 
 <table>
 <tr>
@@ -198,15 +264,18 @@ Scalable Systems
 
 Developer Productivity Dashboard
 
+<br/><br/>
+
 A productivity platform combining analytics + task management for developer workflows.
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
 </td>
+
 
 <td width="33%" valign="top">
 
@@ -218,16 +287,19 @@ A productivity platform combining analytics + task management for developer work
 
 Backend & System Design
 
-System Design
-Microservices
-Database Optimization
+<br/><br/>
+
+System Design  
+Microservices  
+Database Optimization  
 Scalable APIs
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/DEEP%20DIVE-7C3AED?style=flat-square&labelColor=0B1220"/>
 
 </td>
+
 
 <td width="33%" valign="top">
 
@@ -239,12 +311,14 @@ Scalable APIs
 
 Open Source Collaborators
 
-Chrome Extensions
-Developer Tools
-Productivity Tools
+<br/><br/>
+
+Chrome Extensions  
+Developer Tools  
+Productivity Tools  
 Open Source Projects
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/LET'S%20BUILD-16A34A?style=flat-square&labelColor=0B1220"/>
 
@@ -255,11 +329,17 @@ Open Source Projects
 
 </div>
 
-🛠️ Tech Stack
+
+<!-- =========================================================
+     TECH STACK
+     ========================================================= -->
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 <table>
+
 <tr>
 <td width="20%" align="center"><b>💻 Languages</b></td>
 <td>
@@ -299,7 +379,12 @@ Open Source Projects
 
 </div>
 
-🚀 Featured Projects
+
+<!-- =========================================================
+     FEATURED PROJECTS
+     ========================================================= -->
+
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -308,7 +393,7 @@ Open Source Projects
 
 <td width="50%" valign="top">
 
-🔄 LeetCode → GitHub Sync
+### 🔄 LeetCode → GitHub Sync
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
@@ -326,9 +411,10 @@ Automatically syncs accepted LeetCode submissions to GitHub with metadata enrich
 
 </td>
 
+
 <td width="50%" valign="top">
 
-🤖 Student Docs + AI Assistant
+### 🤖 Student Docs + AI Assistant
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -349,11 +435,12 @@ AI-powered document assistant that lets users upload PDFs and ask context-aware 
 
 </tr>
 
+
 <tr>
 
 <td width="50%" valign="top">
 
-🚗 Parkade — SmartPark
+### 🚗 Parkade — SmartPark
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -372,9 +459,10 @@ Parking slot booking platform with JWT authentication, MySQL-backed reservations
 
 </td>
 
+
 <td width="50%" valign="top">
 
-📂 Explore All Projects
+### 📂 Explore All Projects
 
 <img src="https://img.shields.io/badge/OPEN_SOURCE-PROJECTS-F59E0B?style=flat-square&logo=github&logoColor=white"/>
 
@@ -382,17 +470,27 @@ Parking slot booking platform with JWT authentication, MySQL-backed reservations
 
 Explore my other repositories containing:
 
+<br/><br/>
+
 Full-stack applications
+
+<br/>
 
 Developer tools
 
+<br/>
+
 Chrome extensions
+
+<br/>
 
 Experiments
 
+<br/>
+
 Open-source contributions
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Rickydama3?tab=repositories">
 <img src="https://img.shields.io/badge/BROWSE%20REPOSITORIES-F59E0B?style=flat-square&logo=github&logoColor=white"/>
@@ -401,15 +499,21 @@ Open-source contributions
 </td>
 
 </tr>
+
 </table>
 
 </div>
 
-🏆 Achievements
+
+<!-- =========================================================
+     ACHIEVEMENTS
+     ========================================================= -->
+
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/500%2B-DSA%20PROBLEMS-2563EB?style=for-the-badge&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/800%2B-DSA%20PROBLEMS-2563EB?style=for-the-badge&labelColor=0B1220"/>
 <img src="https://img.shields.io/badge/CODEFORCES-PUPIL%20%7C%201348-3B82F6?style=for-the-badge&labelColor=0B1220"/>
 <img src="https://img.shields.io/badge/LEETCODE-1800%2B-60A5FA?style=for-the-badge&labelColor=0B1220"/>
 <img src="https://img.shields.io/badge/IEEE%20HACKATHON-TOP%20100-1D4ED8?style=for-the-badge&labelColor=0B1220"/>
@@ -420,18 +524,29 @@ Open-source contributions
 
 </div>
 
-📊 GitHub Analytics
+
+<!-- =========================================================
+     GITHUB ANALYTICS
+     ========================================================= -->
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.vercel.app/?user=Rickydama3&background=0B1220&ring=2563EB&fire=60A5FA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&hide_border=true" width="520"/>
+
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rickydama3&custom_title=Contribution%20Activity&bg_color=0B1220&color=93C5FD&line=2563EB&point=60A5FA&area_color=172554&area=true&hide_border=true&radius=10" width="95%"/>
 
 </div>
 
-🐍 Contribution Graph
+
+<!-- =========================================================
+     CONTRIBUTION SNAKE
+     ========================================================= -->
+
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -443,13 +558,23 @@ Open-source contributions
 
 </div>
 
-💬 Let's Build Something Useful
+
+<!-- =========================================================
+     LET'S BUILD
+     ========================================================= -->
+
+## 💬 Let's Build Something Useful
 
 <div align="center">
 
-Open Source · Developer Tools · Full Stack Products
+<!-- Development Time -->
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500" alt="Development Time"/>
 
-<br/>
+<br/><br/>
+
+<b>Open Source · Developer Tools · Full Stack Products</b>
+
+<br/><br/>
 
 <a href="https://github.com/Rickydama3?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
